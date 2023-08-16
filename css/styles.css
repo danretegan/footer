@@ -222,7 +222,7 @@ img {
   display: flex;
   flex-direction: row;
   gap: 93px;
-  justify-content: space-between;
+  justify-content: center;
   align-items: baseline;
 }
 
@@ -237,6 +237,10 @@ img {
   display: flex;
   flex-direction: row;
   gap: 12px;
+}
+
+.subscribe-input{
+  width: 358px;
 }
 
 .subscribe-btn {
